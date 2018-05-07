@@ -1,0 +1,5 @@
+accepts a file with a set of linesKWIC
+future (but not required now): use of a database instead of a file, a GUI front end instead of a consolePossible
+line can be "circularly" shifted by removing the first word in the line and appending it to the end of the lineEach
+line has a set of words, each word consists of a set of charactersEach
+outputs a listing (console + file) of all circular shifts of all lines in alphabetical orderKWIC

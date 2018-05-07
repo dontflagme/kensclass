@@ -1,0 +1,5 @@
+KWIC accepts a file with a set of lines
+Each line has a set of words, each word consists of a set of characters
+Each line can be "circularly" shifted by removing the first word in the line and appending it to the end of the line
+KWIC outputs a listing (console + file) of all circular shifts of all lines in alphabetical order
+Possible future (but not required now): use of a database instead of a file, a GUI front end instead of a console
